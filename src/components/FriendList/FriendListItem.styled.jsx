@@ -1,8 +1,6 @@
 import styled from "@emotion/styled"
 
 export const ListItem = styled.li`
-
-
 flex-direction: column;
 padding: 10px;
 text-align: center;

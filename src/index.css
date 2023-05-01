@@ -1,6 +1,5 @@
 @import-normalize; /* bring in normalize.css styles */
 
-<<<<<<< Updated upstream
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
@@ -22,11 +21,3 @@ ul {
 
 }
 
-.cat{
-  flex-direction: column;
-text-align: center;
-margin-right: 10px;
-}
-=======
-ccscsc
->>>>>>> Stashed changes
