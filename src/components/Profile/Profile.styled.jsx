@@ -19,7 +19,7 @@ export const ProfileList = styled.ul`
 padding-inline-start: 0;
 display: flex;
 box-shadow: 0px 0px 5px 1px rgba(0, 0, 0, 0.5);
-
+list-style-type: none;
 `;
 
 

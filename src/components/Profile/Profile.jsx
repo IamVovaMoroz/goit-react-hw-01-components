@@ -20,15 +20,15 @@ import {Block, ProfileItem, ProfileList, ProfileName, ProfileImg} from "./Profil
   
         <ProfileList className="stats">
           <ProfileItem>
-            <span className="label">Followers </span>
+            <span className="label">Followers: </span>
             <span className="quantity">{stats.followers}</span>
           </ProfileItem>
           <ProfileItem>
-            <span className="label">Views </span>
+            <span className="label">Views: </span>
             <span className="quantity">{stats.views}</span>
           </ProfileItem>
           <ProfileItem>
-            <span className="label">Likes </span>
+            <span className="label">Likes: </span>
             <span className="quantity">{stats.likes}</span>
           </ProfileItem>
         </ProfileList>
