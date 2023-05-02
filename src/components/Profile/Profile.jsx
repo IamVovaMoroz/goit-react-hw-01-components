@@ -1,7 +1,7 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 import {Block, ProfileItem, ProfileList, ProfileName, ProfileImg} from "./Profile.styled.jsx"
-// import css from "./Event.module.css"
+
 
 
  const Profile = ({username, tag, location, avatar, stats}) => {
