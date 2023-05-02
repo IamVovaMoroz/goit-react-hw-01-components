@@ -20,7 +20,7 @@ export const App = () => {
         fontSize: 40,
         color: '#010101',
         gap: 30,
-        
+        // ul: listStyleType: none,
         
       }}
     >
