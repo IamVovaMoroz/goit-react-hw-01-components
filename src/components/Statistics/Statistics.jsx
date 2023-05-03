@@ -1,4 +1,4 @@
-// Statistics.jsx файл
+
 import React from 'react';
 import PropTypes from 'prop-types';
 import {SectionStatistics, TitleStatistics, ListStatistics, ItemStatistics, Label} from "./Statistics.styled.jsx"
