@@ -27,7 +27,6 @@ const Statistics = ({ data, title }) =>  {
 export default Statistics;
 
 
-
 Statistics.propTypes = {
 
   title: PropTypes.string,
