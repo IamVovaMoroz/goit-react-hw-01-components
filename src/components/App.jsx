@@ -1,4 +1,3 @@
-// App.jsx файл
 import Profile from "./Profile/Profile";
 import user from './user.json';
 import Statistics from "./Statistics/Statistics";
